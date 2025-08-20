@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deepV66/Speed/refs/heads/main/SpeedHub"))()
